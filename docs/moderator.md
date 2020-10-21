@@ -25,7 +25,7 @@ messages, channels, and servers.
 
 ## Server Overview
 
-Upon getting the `@Moderator` role, the first thing you'll notice is two new
+Upon receiving the `@Moderator` role, the first thing you'll notice is two new
 categories, `Logs` and `Private`.
 
 In the `Logs` category, you will notice quite a lot of channels. As the name

@@ -25,9 +25,15 @@ learning the framework.
 1. **Use English only.** Use of other languages is allowed in designated
    channels (based on @Moderator availability).
 
-1. **Do not spam users or channels.** Be patient. Unsolicited direct messages
-   (DMs) are not allowed. Keep messages relevant to the channel they're in. Do
-   not send the same message to different channels.
+1. **Do not spam communication channels.** Keep messages relevant to the channel
+   they are in. Do not send the same message or question across channels or
+   platforms (ie. StackOverflow). Be patient. Someone will be with you when they
+   have a moment to help.
+
+1. **Do not send unsolicited Discord notifications.** The use of `@everyone` and
+   `@here` is strictly forbidden. Unsolicited direct messages (DMs), mentions,
+   or friend requests are not allowed unless permission is granted in public
+   channels. Replies to previous messages are allowed.
 
 1. **Be civil and professional.** Personal attacks, harassment, and hate speech
    will not be tolerated.
@@ -38,7 +44,11 @@ learning the framework.
 1. **Clean language only.** Inappropriate and offensive language is strictly
    forbidden.
 
-1. **Only Angular Roles posted in #job-board.** Keep job postings relevant to the Angular Community. Job postings must indicate a form of payment. Job postings that do not include compensation must explicitly indicate that they do not do so. Resume postings are not allowed because they scroll out of view too quickly and lead to duplicate posts.
+1. **Only Angular Roles posted in #job-board.** Keep job postings relevant to
+   the Angular Community. Job postings must indicate a form of payment. Job
+   postings that do not include compensation must explicitly indicate that they
+   do not do so. Resume postings are not allowed because they scroll out of view
+   too quickly and lead to duplicate posts.
 
 1. **Follow the [Discord Terms of Service][discord-tos].**
 

@@ -44,11 +44,9 @@ learning the framework.
 1. **Clean language only.** Inappropriate and offensive language is strictly
    forbidden.
 
-1. **Only Angular Roles posted in #job-board.** Keep job postings relevant to
-   the Angular Community. Job postings must indicate a form of payment. Job
-   postings that do not include compensation must explicitly indicate that they
-   do not do so. Resume postings are not allowed because they scroll out of view
-   too quickly and lead to duplicate posts.
+1. **Only Angular roles posted in #job-board.** Job descriptions must include
+   Angular. Postings must state whether there is or is not compensation. Resume
+   postings are not allowed.
 
 1. **Follow the [Discord Terms of Service][discord-tos].**
 
